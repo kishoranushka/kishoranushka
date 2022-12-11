@@ -1,10 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Anushka Kishor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://www.freevector.com/uploads/vector/preview/31087/07Januari2021-06_generated.jpg" >
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/virtual-video-flat-vector-illustration_203633-4008.jpg" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoranushka&label=Profile%20views&color=0e75b6&style=flat" alt="kishoranushka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoranushka" alt="kishoranushka" /></a> </p>
+
 
 - 🌱 I’m currently learning **C++, DSA, Java**
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lsKEAhBUuooU5bcETUeDudtsJl2y336w/view?usp=share_link](https://drive.google.com/file/d/1lsKEAhBUuooU5bcETUeDudtsJl2y336w/view?usp=share_link)
 
-- ⚡ Fun fact **I'm extrovertly introvert🙄**
+- ⚡ Fun fact **I'm extrovertly introvert🙄😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
