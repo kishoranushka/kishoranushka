@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **C++, DSA, Java**
+- 🌱 I’m currently learning **C++, DSA, Typescript**
 
 - 📫 How to reach me **kishoranushka96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lsKEAhBUuooU5bcETUeDudtsJl2y336w/view?usp=share_link](https://drive.google.com/file/d/1lsKEAhBUuooU5bcETUeDudtsJl2y336w/view?usp=share_link)
+- 📄 Checkout my portfolio [https://www.anushkakishor.tech/](https://www.anushkakishor.tech/)
 
 - ⚡ Fun fact **I'm extrovertly introvert🙄😂**
 
